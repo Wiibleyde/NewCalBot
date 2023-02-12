@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# config
+*.json
+
+# database
+*.db
+
+# calendar
+*.ics
